@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+html body {
+        background-color: ghostwhite;
+}
+
+body div {
+    display: block;
+    width: 90%;
+    height: 123px;
+    margin: 0 auto;
+    border: 2px dashed black;
+}
